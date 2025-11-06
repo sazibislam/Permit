@@ -1,5 +1,5 @@
 # Permit Master Branch
-![](screenshot/1.jpg)
+![](screenshoot/1.jpg)
 please visit the screenshoot folder
 
 ## Requirements
