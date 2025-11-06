@@ -21,7 +21,7 @@ please visit the screenshoot folder
 
 
 ## Branches
-- [master](https://github.com/B-Trac-Solutions-Ltd/Nirapath_Android/tree/master) - Latest Development Code
+- [master](https://github.com/sazibislam/Permit) - Latest Development Code
 
 ## License
 ```
